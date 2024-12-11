@@ -1,0 +1,11 @@
+Smol Lm under the hood: https://huggingface.co/blog/smollm?s=31 
+
+Research in which LLama layers are most semantically relevant:
+- Sorted LLaMA: Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference
+    https://arxiv.org/abs/2309.08968
+- LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention
+    https://arxiv.org/abs/2303.16199
+- SparseGrad: A Selective Method for Efficient Fine-tuning of MLP Layers
+    https://arxiv.org/abs/2410.07383
+
+
